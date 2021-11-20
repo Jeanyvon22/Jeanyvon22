@@ -26,4 +26,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
 </p>
 <br>
+
+<h2 align="left">:heart: Let's get connected:</h2>
 [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jeanyvon8)](https://twitter.com/jeanyvon8)
