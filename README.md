@@ -5,7 +5,9 @@
  
 <br>
 <br>
-<br>
+ <p align="center">
+  <img src="https://www.notre-planete.info/medias/loading.gif" width="100">
+</p>
 <br>
 <br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
