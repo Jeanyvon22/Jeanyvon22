@@ -6,7 +6,7 @@
 <br>
 <br>
  <p align="center">
-  <img src="https://c.tenor.com/sOcqo6-1sXQAAAAM/loading-bar.gif" width="100">
+  <img src="https://c.tenor.com/sOcqo6-1sXQAAAAM/loading-bar.gif" width="200">
 </p>
 <br>
 <br>
