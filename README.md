@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jeanyvon8)](https://twitter.com/jeanyvon8)
+[![Twitter Badge](https://img.shields.io/badge/-@jeanyvon8-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jeanyvon8)](https://twitter.com/jeanyvon8)
